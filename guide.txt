@@ -1,0 +1,4 @@
+here is how to compile the file
+
+clang main.cpp airline_graph.cpp -o airline_cli.cpp
+g++ main.cpp airline_graph.cpp -o airline_cli.cpp
