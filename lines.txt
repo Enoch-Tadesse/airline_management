@@ -1,0 +1,6 @@
+// Sample airlines data: name city code
+Delta Atlanta ATL
+American Dallas DFW
+United Chicago ORD
+Southwest Houston IAH
+JetBlue NewYork JFK

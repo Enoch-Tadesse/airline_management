@@ -195,9 +195,11 @@ bool pathExists(string start, string target, adj& graph) {
         q.pop();
         visited[current] = true;
 
+		// target found, return true
         if (current == target) return true;
 
         for (Edge edge : graph[current]) {
+			// visit every edge that has not been visited before
             if (visited[edge.to]) continue;
             q.push(edge.to);
         }

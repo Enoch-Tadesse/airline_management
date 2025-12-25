@@ -1,0 +1,6 @@
+// Sample edges data: code1 code2 distance time cost
+ATL DFW 731 2.5 150 
+DFW ORD 802 2.0 120 
+ORD ATL 606 1.5 100 
+IAH JFK 1416 3.0 200 
+JFK IAH 1416 3.0 200
